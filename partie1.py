@@ -1,4 +1,4 @@
-if __name__ == '__partie1__':
+if __name__ == '__main__':
     fichier = open('input1', 'r')
     content = fichier.read()
 
